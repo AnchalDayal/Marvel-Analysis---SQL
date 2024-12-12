@@ -50,12 +50,10 @@ The dataset includes 18 columns:
 
 ### **Advanced**  
 1. Use window functions (e.g., rank movies by `Worldwide Gross ($m)` per year)  
-2. Correlated subqueries (e.g., compare `Worldwide Gross ($m)` to yearly averages)  
-3. Write Common Table Expressions (CTEs) for budget recovery analysis  
-4. Perform dynamic aggregations (e.g., yearly total, average, minimum, and maximum gross)  
-5. Nested queries in the `FROM` clause  
-6. Handle JSON or arrays (if applicable)  
-7. Recursive CTEs (e.g., simulate cumulative gross revenue trends)  
+2. Correlated subqueries (e.g., compare `Worldwide Gross ($m)` to yearly averages)    
+3. Perform dynamic aggregations (e.g., yearly total, average, minimum, and maximum gross)  
+4. Nested queries in the `FROM` clause  
+5. Recursive CTEs (e.g., simulate cumulative gross revenue trends)  
 
 ---
 
